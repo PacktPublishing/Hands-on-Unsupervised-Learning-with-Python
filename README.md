@@ -24,25 +24,7 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 Prior Python programming experience is a requirement, and experience with data analysis and machine learning analysis will be helpful.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Minimum Hardware Requirements
-For successful completion of this course, students will require the computer systems with at least the following:
-· OS: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit
-· Processor: Intel Core i5 or equivalent
-· Memory: 4 GB RAM
-· Storage: 35 GB available space
-
-Recommended Hardware Requirements
-For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
-· OS: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit
-· Processor: Intel Core i7 or equivalent
-· Memory: 8 GB RAM
-· Storage: 35 GB available space
-
-Software Requirements
-· OS: Windows 7 or Windows 10
-· Browser: Google Chrome, Latest Version
-· Code Editor: Atom IDE, Latest Version, spaCy
-
+<b>Minimum Hardware Requirements</b>For successful completion of this course, students will require the computer systems with at least the following:<ul><li>OS: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit</li><li>Processor: Intel Core i5 or equivalent</li><li>Memory: 4 GB RAM</li><li>Storage: 35 GB available space</ul></li><br><b>Recommended Hardware Requirements</b><br>For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:<ul><li>OS: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit</li><li>Processor: Intel Core i7 or equivalent</li><li>Memory: 8 GB RAM</li><li>Storage: 35 GB available space</li></ul><br><b>Software Requirements</b><ul><li>OS: Windows 7 or Windows 10</li><li>Browser: Google Chrome, Latest Version</li><li>Code Editor: Atom IDE, Latest Version, spaCy</li></ul><br>
 ## Related Products
 * [Hands-On Machine Learning with Python and Scikit-Learn [Video]](https://www.packtpub.com/big-data-and-business-intelligence/hands-machine-learning-python-and-scikit-learn-video?utm_source=github&utm_medium=repository&utm_campaign=9781788991056)
 
