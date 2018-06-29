@@ -21,7 +21,7 @@ After watching this course and experimenting with the provided code, you will ha
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-The audience includes analysts and data scientists that want to understand key applications of Unsupervised Learning from both a conceptual and practical point of view. Prior Python programming experience is a requirement, and experience with data analysis and machine learning analysis will be helpful.
+Prior Python programming experience is a requirement, and experience with data analysis and machine learning analysis will be helpful.
 ### Technical Requirements
 This course has the following software requirements:<br/>
 Minimum Hardware Requirements
@@ -31,14 +31,12 @@ For successful completion of this course, students will require the computer sys
 · Memory: 4 GB RAM
 · Storage: 35 GB available space
 
-
 Recommended Hardware Requirements
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
 · OS: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit
 · Processor: Intel Core i7 or equivalent
 · Memory: 8 GB RAM
 · Storage: 35 GB available space
-
 
 Software Requirements
 · OS: Windows 7 or Windows 10
